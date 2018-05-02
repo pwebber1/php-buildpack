@@ -66,7 +66,7 @@ dependencies:
 - name: appdynamics
   version: 4.3.5.13
   uri: https://packages.appdynamics.com/php/4.3.5.13/appdynamics-php-agent-x86-linux-4.3.5.13.tar.bz2
-  sha256: 6df01fc0694503c44b2c0b4e81c13894f9e9a9097202b6fb3e2d43e78c4fe71d
+  sha256: fd05505f95b16b3da33c2cf8a7e3c2225672476f566671b4c1a0c64807aefe70
   cf_stacks:
   - cflinuxfs2
 - name: newrelic
